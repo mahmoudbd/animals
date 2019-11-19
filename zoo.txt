@@ -1,3 +1,5 @@
 Wolf
 Fox
 Tiger
+Lion
+Zebra
